@@ -5,6 +5,7 @@ import java.util.ArrayList;
 public class Store {
     int id;
     String name;
+    //
     String[] location = {"First", "Second", "Third"};
     ArrayList<Object> products = new ArrayList<>();
 
@@ -15,8 +16,12 @@ public class Store {
         this.products = products;
     }
 
+    public Store() {
+
+    }
+
     //A product is identified by product id, name, type, quantity and price.
-    public void MyProduct(int id, String name, char type, int quantity, double price){
+    public void myProduct(int id, String name, char type, int quantity, double price){
         products.add(2);
     }
 
