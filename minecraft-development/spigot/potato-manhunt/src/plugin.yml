@@ -1,0 +1,9 @@
+  name: potato-manhunt
+  main: me.alanseyfir.manhunt.Main
+  version: 1.0
+  author: alanseyfir
+  description: A potato plugin of manhunt
+
+  commands:
+    manhunt:
+      description: Makes player first hunted

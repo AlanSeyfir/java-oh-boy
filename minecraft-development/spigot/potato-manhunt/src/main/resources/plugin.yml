@@ -1,0 +1,7 @@
+name: Manhunt
+version: ${project.version}
+main: me.alanseyfir.manhunt.Main
+api-version: 1.17
+authors: [ AlanSeyfir ]
+description: Manhunt minigame with compass
+website: https://alanseyfir.github.io/personal-portfolio/
